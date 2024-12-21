@@ -12,7 +12,6 @@ If you load a profile & your current profile does not have those friends it will
 
 ![fmall](https://github.com/user-attachments/assets/b9d2fc45-1b81-4d11-9b35-083d1f190929)
 
-![fmm](https://github.com/user-attachments/assets/d1023ee3-9890-4d6f-80eb-7ced1dce9bdd)
 
 
     /fm save <profile> - Save current friends list to a profile
