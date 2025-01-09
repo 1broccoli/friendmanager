@@ -1,0 +1,9 @@
+## Interface: 11400
+## Title: Friend Manager
+## Notes: Manage and transfer your friends list across characters.
+## Author: Pegga / Broccoli
+## Website: https://github.com/1broccoli
+## Version: 1.1
+## SavedVariables: FriendManagerDB
+
+FriendManager.lua
